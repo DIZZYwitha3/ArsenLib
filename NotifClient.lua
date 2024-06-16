@@ -33,7 +33,7 @@ function Nofitication:Notify(nofdebug, middledebug, all)
 
     BackG.Name = "Background"
     BackG.Parent = Window
-    BackG.BackgroundTransperancy = 1
+    BackG.BackgroundTransparency = 1
     BackG.BorderSizePixel = 0
     BackG.Image = "http://www.roblox.com/asset/?id=6087537285"
     BackG.Position = UDim2.new(0, 5, 0, 5)
