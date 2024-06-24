@@ -34,7 +34,7 @@ This script requires a Level 3 exploit to run, such as Solara by Quivings.
 ## Video Demonstration
 
 For a video demonstration of the script in action, please refer to the following link:
-- [Video Showcase](https://jmp.sh/WNaEBhDR) *(Replace with actual video link)*
+- [Video Showcase](https://jmp.sh/WNaEBhDR)
 
 ## Credits
 
