@@ -11,6 +11,7 @@ local USettings = {
 -- Availability to All
 
 -- https://dsc.gg/Synthe
+-- https://discord.gg/xSBVe989U2
 
 --// Main poop
 
