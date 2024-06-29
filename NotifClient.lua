@@ -5,7 +5,6 @@ function Nofitication:Notify(nofdebug, middledebug, all)
     local SelectedType = string.lower(tostring(middledebug.Type))
     local ambientShadow = Instance.new("ImageLabel")
     local Window = Instance.new("Frame")
-    local BackG = Instance.new("ImageLabel")
     local Outline_A = Instance.new("Frame")
     local WindowTitle = Instance.new("TextLabel")
     local WindowDescription = Instance.new("TextLabel")
@@ -30,15 +29,6 @@ function Nofitication:Notify(nofdebug, middledebug, all)
     Window.Position = UDim2.new(0, 5, 0, 5)
     Window.Size = UDim2.new(0, 230, 0, 80)
     Window.ZIndex = 2
-
-    BackG.Name = "Background"
-    BackG.Parent = Window
-    BackG.BackgroundTransparency = 1
-    BackG.BorderSizePixel = 0
-    BackG.Image = "http://www.roblox.com/asset/?id=6087537285"
-    BackG.Position = UDim2.new(0, 5, 0, 5)
-    BackG.Size = UDim2.new(1, 0, 1, 0)
-    BackG.ZIndex = 3
     
     Outline_A.Name = "Outline_A"
     Outline_A.Parent = Window
