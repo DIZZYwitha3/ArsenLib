@@ -1,21 +1,21 @@
 # Arsenal Script
 
-This script provides various enhancements and modifications for the game Arsenal. It includes features such as ESP, Silent Aim, Aimbot, and more. The script is maintained by DIZZY.
+This script provides various enhancements and modifications for games. It includes features such as ESP, Aimbot, and more. The script is maintained by DIZZY.
 
 ## Features
 
 - **ESP (Extra Sensory Perception)**
   - Provides information about player positions.
-- **Silent Aim**
+- **Silent Aim** -- ARSENAL
   - Allows shooting without directly aiming at the target.
 - **Aimbot**
   - Automatically targets opponents.
-- **Kill All - OP**
+- **Kill All - OP** -- ARSENAL
   - Eliminates all opponents instantly.
 - **Gun Mods**
   - Infinite Ammo
   - Other modifications to enhance weapon capabilities.
-- **Client Skins**
+- **Client Skins** -- ARSENAL
   - Access to various knife skins and other cosmetic items.
 - **Player Modification**
   - Adjust player speed and other attributes.
